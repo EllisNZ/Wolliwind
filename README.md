@@ -1,1 +1,1 @@
-# Flora and terrain replacers for Vvardenfell
+# Habitat replacers and mods for the island Vvardenfell
